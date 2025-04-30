@@ -1,0 +1,1 @@
+// React app entry (compiled bundle or Vite entry point placeholder)
